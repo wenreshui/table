@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T02:26:19.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="K4TAX9LsgCindGhIfiop" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T02:27:27.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="qaGgLl60tpCNYMiiLank" version="14.5.1" type="github">
   <diagram id="j63wtEEbTM9T6A4eodwg" name="Page-1">
     <mxGraphModel dx="942" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,16 +104,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3LgqNi5izFDMU0osC5SV-23" value="导入接口" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="680" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LgqNi5izFDMU0osC5SV-24" value="" style="curved=1;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="3LgqNi5izFDMU0osC5SV-9" target="3LgqNi5izFDMU0osC5SV-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="290" as="sourcePoint" />
             <mxPoint x="700" y="310" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="650" y="270" />
-              <mxPoint x="660" y="280" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3LgqNi5izFDMU0osC5SV-25" value="4、开启定时器请求" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
